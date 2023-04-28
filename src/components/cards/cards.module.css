@@ -1,0 +1,10 @@
+.div{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 60%;
+    height: min-content;
+    padding: 1em;
+    padding-top: 20px;
+}

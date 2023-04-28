@@ -1,0 +1,53 @@
+.div{
+    background-color: rgb(37, 37, 37);
+    width: 150px;
+    height: 320x;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 5px 4px 5px 0px rgba(0,0,0,0.75);
+}
+.button{
+    border: 5px;
+    background-color: rgb(132, 19, 19);
+    width: fit-content;
+    transition: 0.5s;
+}
+.button:hover{
+    box-shadow: 5px 4px 5px 0px rgba(0,0,0,0.75);
+}
+.name{
+    width: fit-content;
+    color: aliceblue;
+    font-size: medium;
+    font-style: italic;
+}
+.status{
+    width: fit-content;
+    color: aliceblue;
+    font-size: medium;
+    font-style: italic;
+}
+.species{
+    width: fit-content;
+    color: aliceblue;
+    font-size: medium;
+    font-style: italic;
+}
+.gender{
+    width: fit-content;
+    color: aliceblue;
+    font-size: medium;
+    font-style: italic;
+}
+.origin{
+    width: fit-content;
+    color: aliceblue;
+    font-size: medium;
+    font-style: italic;
+}
+
+.img{
+    width: 90%;
+    border-radius: 45%;
+}
+
